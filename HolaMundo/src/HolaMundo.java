@@ -1,6 +1,8 @@
 
 import java.io.*;
 
+// la clase HolaMundo
+
 public class HolaMundo {
 	
 	public void Saludar(){
