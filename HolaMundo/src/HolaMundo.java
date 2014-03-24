@@ -1,7 +1,7 @@
 
 import java.io.*;
 
-//otro comentario
+//otro comentariokjghñiughñuoghñg
 
 public class HolaMundo {
 	
