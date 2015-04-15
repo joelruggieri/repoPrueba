@@ -6,7 +6,7 @@ import java.io.*;
 public class HolaMundo {
 	
 	public void Saludar(){
-		System.out.println("Hola Mundo");
+		System.out.println("Hello word");
 		return;//return
 	}
 
